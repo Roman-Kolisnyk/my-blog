@@ -1,0 +1,48 @@
+.show-article .article-content {
+    display: flex;
+    margin-top: 30px;
+    color: lightgrey;
+}
+
+.show-article .title {
+    margin-top: 30px;
+    color: black
+}
+
+.show-article .article-content .image {
+    margin-right: 15px;
+    height: 400px;
+    width: 500px;
+}
+
+.show-article .article-content .article-text {
+    font-size: 18px;
+}
+
+.show-article .tags {
+    margin-top: 30px;
+}
+
+.show-article .tags span {
+    font-size: 15px;
+}
+
+.show-article .action-buttons {
+    display: flex;
+}
+
+.show-article .action-buttons a {
+    text-decoration: none;
+}
+
+.show-article .action-buttons .back-button {
+    margin: 15px;
+}
+
+.show-article .action-buttons .delete-button {
+    margin: 15px;
+}
+
+.show-article .action-buttons .edit-button {
+    margin: 15px
+}

@@ -1,0 +1,13 @@
+.category-form {
+    padding: 15px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.category-form .action-buttons a {
+    text-decoration: none;
+}
+
+.category-form .action-buttons .submit-btn {
+    float: right;
+}

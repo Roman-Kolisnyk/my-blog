@@ -1,0 +1,18 @@
+.create-article-form {
+    padding: 15px;
+    margin-top: 50px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.content-textarea {
+    height: 230px
+}
+
+.back-btn {
+    text-decoration: none;
+}
+
+.submit-btn {
+    float: right
+}

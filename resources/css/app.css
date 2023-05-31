@@ -1,0 +1,16 @@
+@import "components/about-us.css";
+@import "components/article/atricle-form.css";
+@import "components/article/index.css";
+@import "components/article/show.css";
+@import "components/category/category-form.css";
+@import "components/category/index.css";
+@import "components/home/article.css";
+@import "components/home/background.css";
+@import "components/home/pagination.css";
+@import "components/tag/index.css";
+@import "components/tag/tag-form.css";
+@import "components/dashboard.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

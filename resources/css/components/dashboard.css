@@ -1,0 +1,21 @@
+.notification-wrapper {
+    padding-top: 10px;
+}
+
+.user-article-notification {
+    display: inline-block;
+}
+
+.user-article-notification a {
+    font-weight: bold;
+}
+
+.user-article-notification span {
+    line-height: 0;
+}
+
+.notification-wrapper .mark-article-wrapper {
+    display: inline-block;
+    position: absolute;
+    right: 330px;
+}
